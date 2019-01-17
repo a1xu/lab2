@@ -21,5 +21,5 @@ function initializePage() {
 
 function projectClick(e) {
 	e.preventDefault();
-	$(this).css("background-color", "#7FFF00");
+	$(this).css("background-color", "#6E96D1");
 }

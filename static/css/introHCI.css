@@ -39,3 +39,9 @@
 	padding: 20px;
 	width: 525px;
 }
+
+.project a p {
+	text-align: center;
+	color: #223073;
+	margin-top: 5px;
+}
